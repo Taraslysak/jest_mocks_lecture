@@ -1,0 +1,19 @@
+{
+  "name": "jest_mocks_lecture",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Taraslysak/jest_mocks_lecture.git",
+  "author": "Taraslysak <lysak.ipr@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "@babel/preset-typescript": "^7.16.0",
+    "@types/jest": "^27.0.2",
+    "jest": "^27.3.1"
+  }
+}
